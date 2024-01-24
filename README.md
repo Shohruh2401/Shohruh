@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Shohruh Artaman
+- 👀 I’m interested in FinTech, Automations, AI, Integrations, and Data Science
+- 🌱 I’m currently learning Business Technology via the custom API modifications for tens of Business software like Zapier, Monday.com, Tableau, Hubspot and many more
+- 💞️ I’m looking to collaborate on projects related to Web3, DeFi, Cryptocurrency, and Optimization
+- 📫 Feel free to send me an email via DMing and I'll get back to you shortly
+- ⚡ Fun fact: I knew 3 languages by the age of 15, and by 22 I've helped a multi-million non-profit increase revenues by 25%.
